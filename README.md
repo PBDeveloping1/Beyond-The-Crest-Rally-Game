@@ -4,7 +4,7 @@ A small indie rally game about the joy of driving.
 
 # About
 
-The Scenic Route is an indie rally game being developed from scratch, without using a game engine.
+Beyond The Crest is an indie rally game being developed from scratch, without using a game engine.
 
 The project focuses on capturing the feeling of rally driving through challenging stages, different environments, and enjoyable driving mechanics.
 
