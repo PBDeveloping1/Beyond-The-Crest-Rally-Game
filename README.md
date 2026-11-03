@@ -42,6 +42,6 @@ This project is being created as part of Hack Club's Mipmap program.
 
 # Credits
 
-Developed by Darknes1092.
+Developed by Darknes1092/PBDeveloping1.
 
 More roads to come.
