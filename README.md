@@ -1,47 +1,70 @@
-# Beyond The Crest
+# 🏁 Beyond The Crest
 
-A small indie rally game about the joy of driving.
+**Beyond The Crest** is a 2D top-down rally game focused on driving, handling, and the experience of rally racing.
 
-# About
+Built from scratch using HTML, CSS, and JavaScript, without a traditional game engine.
 
-Beyond The Crest is an indie rally game being developed from scratch, without using a game engine.
+## 🎮 Features
 
-The project focuses on capturing the feeling of rally driving through challenging stages, different environments, and enjoyable driving mechanics.
+- Top-down rally driving
+- Custom car graphics
+- Driving physics and steering
+- Different road surfaces, including gravel and dirt
+- Surface-dependent grip and handling
+- Engine and revving audio
+- Tire skid marks
+- Dust and driving particles
+- Camera movement and effects
+- Rally HUD with speed display
+- Custom rally stage and road detection
 
-# Features
+## 🕹️ Controls
 
-Car movement and physics
+| Key | Action |
+|---|---|
+| W / ↑ | Accelerate |
+| S / ↓ | Brake / Reverse |
+| A / ← | Steer Left |
+| D / → | Steer Right |
 
-Rally stage generation
+## 🛠️ Built With
 
-Different road surfaces
+- HTML5
+- CSS3
+- JavaScript
+- HTML Canvas API
 
-Time trials
+## 🚗 Running the Game
 
-Checkpoints and split times
+1. Download or clone this repository.
+2. Open the project folder.
+3. Open `index.html` in your browser.
 
-Sound effects and music
+For the best experience, use a modern browser.
 
-Main menu and settings
+## 📁 Project Structure
 
-# Built With
+```text
+Beyond-The-Crest/
+│
+├── index.html
+├── script.js
+├── style.css
+├── stage_background_image.png
+├── road_layer.png
+│
+└── assets/
+    └── audio/
+        ├── engine.mp3
+        └── rev.mp3
+```
 
-HTML
+## 🎯 Project Goal
 
-CSS
+Beyond The Crest was created as a game development project for **Hack Club MIPMap**.
 
-JavaScript
+The goal is to create an enjoyable rally experience while learning about programming, physics, game development, and working with JavaScript without a game engine.
 
-HTML Canvas
+---
 
-# Development
-
-Currently in early development.
-
-This project is being created as part of Hack Club's Mipmap program.
-
-# Credits
-
-Developed by Darknes1092/PBDeveloping1.
-
-More roads to come.
+**Developed with passion for rallying.** 🏁
